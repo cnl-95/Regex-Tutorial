@@ -1,10 +1,10 @@
-# Regex Tutorial
+# Title (replace with your title)
 
-This is a tutorial explaining a specific regex.
+Introductory paragraph (replace this with your text)
 
 ## Summary
 
-Today we will analyze this code: ``` /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/ ```
+Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
 ## Table of Contents
 
